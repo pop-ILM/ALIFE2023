@@ -405,6 +405,7 @@ def usage():
     print('python comModel.py -p percent | -s | -v | -h')
     print("")
     print("-p percent ~ The percent quantity of language being external. Default is 1.")
+    print("-s ~ Spatial. Whether the community structure is spatial. Default is Off.")
     print("-v ~ Verbose. Adds more print tracking of agents communication, stability, expressiveness and timer. Default is Off.")
     print("-h ~ Help. Prints options.")
     print("")
