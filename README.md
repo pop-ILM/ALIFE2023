@@ -1,4 +1,6 @@
 # Spatial community structure impedes language amalgamation in a population-based iterated learning model
+This repository contains the code used to generate data for [Spatial community structure impedes language amalgamation in a population-based iterated learning model](https://google.com) (Accepted as a presentation at [Artificial Life 2023](https://2023.alife.org/)).
+## Setup
 Create the directory ```data/```
 ## Population Model
 To run the population model:
